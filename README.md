@@ -1,4 +1,4 @@
-# LM2_DATAZlib-Decompressor
+# LM2_DATAZlib-Decompressor v0.1
 Decompress compressed zlib files in LM: Dark Moon except its easier.
 
 Use it with the tool Offzip created by aluigi: http://aluigi.altervista.org/mytoolz.htm
