@@ -21,6 +21,7 @@ for /f "delims=" %%I in ('powershell -noprofile "iex (${%~f0} | out-string)"') d
     pause
     offzip.exe -a -1 "%%~I" "!folder!" 0
 )
+echo DONE!
 echo LM2 DATAZlib Decompressor v0.1
 echo By: luigim1
 pause
