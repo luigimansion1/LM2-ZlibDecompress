@@ -1,4 +1,4 @@
-# LM2_DATAZlib-Decompressor v0.1
+# LM2-ZlibDecompress v0.1
 Decompress compressed zlib files in Dark Moon. There really better ways doing this.
 https://discord.gg/29h7fap
 
