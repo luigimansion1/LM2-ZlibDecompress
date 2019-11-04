@@ -1,6 +1,5 @@
 # LM2-ZlibDecompress v0.1
-Decompress compressed zlib files in Dark Moon. There really better ways doing this.
-https://discord.gg/29h7fap
+Decompress compressed zlib files in Dark Moon. There really better ways than doing this.
 
 Use it with the tool Offzip created by aluigi: http://aluigi.altervista.org/mytoolz.htm
 This just makes it easier to use.
